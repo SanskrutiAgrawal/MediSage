@@ -130,12 +130,6 @@ MediSage aims to make **accessible, intelligent, and safe medical assistance** a
 
 ---
 
-## 🤝 Contributors
-
-- [Khush Agrawal](https://github.com/Khushmagrawal) 
-- [Sujal Sakpal](https://github.com/sujal-sakpal)  
-
----
 
 
 
