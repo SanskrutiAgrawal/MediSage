@@ -1,0 +1,28 @@
+# Core dependencies
+docling
+docling-core
+
+# LangChain ecosystem
+langchain
+langchain-core>=1.2.6
+langchain-community>=0.4.1
+langchain-openai>=1.1.0
+langchain-text-splitters>=1.1.0
+
+# Vector databases and storage
+chromadb>=1.4.1
+qdrant-client>=1.16.2
+
+# Machine Learning and NLP
+torch
+transformers
+sentence-transformers
+
+# Utilities
+python-dotenv
+pydantic>=2.7.4
+pydantic-settings>=2.10.1
+
+# Additional dependencies
+bitsandbytes
+accelerate

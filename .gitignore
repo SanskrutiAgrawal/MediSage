@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+
+# Data / Databases
+data/
+chroma_db/
+qdrant_db/
+*.sqlite3
+*.bin
+*.lock
+
+# Models / Cache
+.cache/
+models/
